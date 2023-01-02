@@ -8,10 +8,16 @@
 
 int main(void)
 {
-	int a;
+	int c;
 
-	for (a = 0; a < 10; a++)
-		printf("%d", a);
+	c = 0;
+
+	while
+		(c < 10)
+		{
+			putchar(c + '0');
+			c++;
+		}
 	putchar('\n');
 	return (0);
 }
