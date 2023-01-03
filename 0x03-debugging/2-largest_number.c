@@ -5,10 +5,10 @@
  * @a: first integer
  * @b: second integer
  * @c: third integer
- * Returns: largest number
+ * Return: largest number
  */
 
-int largest_number(int a, int be, int c)
+int largest_number(int a, int b, int c)
 
 {
 	int largest;
