@@ -4,7 +4,7 @@ int _isupper(int c);
 
 int _isdigit(int c);
 
-int mull(int a, int b);
+int mull(int x, int y);
 
 void print_numbers(void);
 
