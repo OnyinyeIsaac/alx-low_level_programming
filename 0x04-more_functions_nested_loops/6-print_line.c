@@ -6,7 +6,7 @@
  * Return: empty
  */
 
-void print_time(int n)
+void print_line(int n)
 
 {
 	int x;
